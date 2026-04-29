@@ -8,10 +8,6 @@ This project focuses on the core foundations of web development: meaningful stru
 Check out the live version here:
 https://nicolasclementedt.github.io/Single-Page-HTML-CV/
 
-
-
-Repo: https://github.com/NicolasClementedt/Single-Page-HTML-CV
-
 🚀 Key Features
 Semantic Architecture: Utilizes HTML5 elements for better accessibility and SEO.
 
