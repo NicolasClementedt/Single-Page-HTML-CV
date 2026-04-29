@@ -1,5 +1,6 @@
 Single-Page HTML CV
 A structured, semantic single-page Curriculum Vitae built as part of the roadmap.sh Frontend Developer path.
+https://roadmap.sh/projects/single-page-cv
 
 This project focuses on the core foundations of web development: meaningful structure and metadata, ensuring the document is optimized for both users and search engines before any styling is applied.
 
