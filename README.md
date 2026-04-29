@@ -4,7 +4,11 @@ A structured, semantic single-page Curriculum Vitae built as part of the roadmap
 This project focuses on the core foundations of web development: meaningful structure and metadata, ensuring the document is optimized for both users and search engines before any styling is applied.
 
 🔗 Live Demo
-Check out the live version here: https://nicolasclementedt.github.io/Single-Page-HTML-CV/
+Check out the live version here:
+https://nicolasclementedt.github.io/Single-Page-HTML-CV/
+
+
+
 Repo: https://github.com/NicolasClementedt/Single-Page-HTML-CV
 
 🚀 Key Features
