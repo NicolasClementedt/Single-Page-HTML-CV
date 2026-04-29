@@ -7,7 +7,7 @@ This project focuses on the core foundations of web development: meaningful stru
 Check out the live version here: https://nicolasclementedt.github.io/Single-Page-HTML-CV/
 
 🚀 Key Features
-Semantic Architecture: Utilizes HTML5 elements (<header>, <main>, <section>, <footer>) for better accessibility (A11y) and SEO.
+Semantic Architecture: Utilizes HTML5 elements for better accessibility and SEO.
 
 SEO & Metadata: Properly configured viewport and description tags for mobile responsiveness and search engine indexing.
 
@@ -18,6 +18,7 @@ Optimized Links: Correct implementation of mailto: and tel: protocols for direct
 Clean Organization: Logical separation of skills, education, projects, and professional history.
 
 🛠️ Technologies Used
+
 HTML5
 
 GitHub Pages (Deployment)
@@ -36,6 +37,7 @@ Experience: Current professional roles and volunteer work.
 Footer: Direct links to professional profiles (LinkedIn/GitHub).
 
 💡 Learning Objectives
+
 The goal of this specific project was to practice:
 
 Writing clean, self-explanatory HTML without relying on CSS.
